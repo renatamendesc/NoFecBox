@@ -2,7 +2,7 @@
 
 NoFecBox é um aparelho desenvolvido com o objetivo de distribuir máscaras descartáveis e álcool 70% em estabelecimentos, sem necessidade de contato direto, visando a proteção e segurança de todos frente à pandemia do Covid-19. O dispositivo foi feito em grupo, como projeto final da disciplina de Introdução a Engenharia da Computação, na Universidade Federal da Paraíba (UFPB). 
 ![Logo NoFecBox](https://cdn.discordapp.com/attachments/782956858398081057/814122911669026876/nofecboxheader.png)
-Vale ressaltar que o circuito foi feito com arduino e que utilizamos MDF em toda estrutura do projeto. Além disso, também é importante esclarecer que usamos bolinhas de plástico reutilizáveis para servir de compartimento parar as máscaras.
+Vale ressaltar que o circuito foi feito com arduino e que utilizamos MDF em toda estrutura do projeto. Além disso, também é importante esclarecer que usamos bolinhas de plástico reutilizáveis para servir de compartimento para as máscaras.
 ## Materiais utilizados:
 * **Materiais do dispenser de álcool:**
    * 1 sensor ultrassônico - R$ 10,90;
