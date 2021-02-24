@@ -45,9 +45,10 @@ Total materiais gerais|R$ 271,45
 ## Funcionamento:
 Por fim, para utilizar o aparelho basta aproximar suas mãos dos sensores. A bolinha virá com a mascará dentro dela, e o álcool será ejetado pela mangueira. Dessa forma, atingimos nosso objetivo principal, protegendo as pessoas sem a necessidade de contato direto com o aparelho. Para saber mais sobre a NoFecBox, assista o vídeo da apresentação do projeto no YouTube [clicando aqui](https://www.youtube.com/watch?v=UKsDdSkHsCE).
 ## Colaboradores:
-* [Gabriela Monteiro](https://github.com/gabrielagcam)
-* [Guilherme Jácome](https://github.com/GuilhermeJC13)
-* [Joaquim Breno](https://github.com/JoaquimBreno)
-* [Matheus Mendonça](https://github.com/mattheusmendonca)
-* [Renata Mendes](https://github.com/renatamendesc)
+* [Gabriela Gomes Cavalcanti Alves Monteiro](https://github.com/gabrielagcam)
+* [Guilherme Jácome Cavalcante](https://github.com/GuilhermeJC13)
+* [Joaquim Breno Brito Cavalcante](https://github.com/JoaquimBreno)
+* Maria Cândida Barbosa Lima
+* [Matheus de Mendonça Barbosa](https://github.com/mattheusmendonca)
+* [Renata Mendes Pereira Campos](https://github.com/renatamendesc)
 
