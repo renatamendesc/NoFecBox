@@ -44,7 +44,4 @@ Total materiais gerais|R$ 271,45
 **Orçamento total**|R$ 384,95
 ## Funcionamento:
 Por fim, para utilizar o aparelho basta aproximar suas mãos dos sensores. A bolinha virá com a mascará dentro dela, e o álcool será ejetado pela mangueira. Dessa forma, atingimos nosso objetivo principal, protegendo as pessoas sem a necessidade de contato direto com o aparelho. Para saber mais sobre a NoFecBox, assista o vídeo da apresentação do projeto no YouTube [clicando aqui](https://www.youtube.com/watch?v=UKsDdSkHsCE).
-## Colaboradores:
-@GuilhermeJC13
-
 
